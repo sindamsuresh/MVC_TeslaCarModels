@@ -22,8 +22,6 @@ class CarModelsVC: UIViewController {
         layout.itemSize = CGSize(width: 120, height: 220)
         carModelCV.collectionViewLayout = layout
     }
-
-
 }
 
 extension CarModelsVC: UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {
