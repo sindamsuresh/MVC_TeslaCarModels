@@ -1,4 +1,4 @@
-# iOS MVC App
+# iOS Sample MVC App
 
 ## Overview
 
